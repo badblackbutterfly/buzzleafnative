@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/creativetimofficial/now-ui-react-native.git"
+    "url": "git+https://github.com/badblackbutterfly/buzzleafnative.git"
   },
   "dependencies": {
     "expo": "^35.0.0",
